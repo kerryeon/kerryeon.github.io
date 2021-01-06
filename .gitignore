@@ -1,4 +1,9 @@
-_site
-.sass-cache
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
 .jekyll-metadata
 Gemfile.lock
+
+# Editor
+.vscode/
